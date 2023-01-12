@@ -1,0 +1,7 @@
+Scanner class:
+Helps us take the input from keyboard.
+Logical Operators:
+    Just another set of symbols that we can use to combine multiple boolean values. There are logical
+    operators ! || &&
+Why should we learn about the logical operators?
+    we can greatly simplify

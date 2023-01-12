@@ -1,0 +1,3 @@
+While Loop:
+    They help us repeat code.
+Why we should use while loops
