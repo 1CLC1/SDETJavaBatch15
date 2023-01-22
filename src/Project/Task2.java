@@ -16,7 +16,7 @@ public class Task2 {
         String country3=scanner.nextLine();
 
         String [] country={"USA", "El Salvador", "Russia", "Mexico", "United Kingdom"};
-        String [] capital = { "Washington DC", "San Salvador", "Moscow", "Mexico City", "London" };
+        String [] capital = { "Washington DC", "San Salvador", "Moscow", "Mexico City", "London"};
 
         for (int i=0; i<country.length; i++) {
             if (country1.equals(country[i])) {
