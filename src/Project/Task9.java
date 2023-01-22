@@ -5,7 +5,7 @@ public class Task9 {
 
         /*9)Maximum and minimum number in the array?*/
 
-        int [] numbers={7,26,37,67,181};
+        int [] numbers={7,26,37,67,180};
 
         int max=numbers[0];
         int min=numbers[0];
