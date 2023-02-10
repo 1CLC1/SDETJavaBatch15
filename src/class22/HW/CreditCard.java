@@ -12,7 +12,7 @@ public class CreditCard {
     double interest;
 
     void calculateInterest(double balance, double interest){
-        System.out.println((balance * interest) /100);
+        System.out.println((balance * interest) / 100);
     }
 }
 class Visa extends CreditCard {
