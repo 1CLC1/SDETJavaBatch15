@@ -3,7 +3,7 @@ Interface:
     to achieve abstraction.
 Please revise this for your selenium class.
     Methods (Most Important)
-    String Class =
+    String Class
     Loops
     Arrays
     Variable types in Java
@@ -15,7 +15,7 @@ Please revise this for your selenium class.
     Overriding
     Implementing an interface
     Polymorphism
-    Finak Keyword( maybe not )
+    Final Keyword( maybe not )
     abstraction (important but not all the details)
     interface (important)
     Encapsulation(not important for selenium)
