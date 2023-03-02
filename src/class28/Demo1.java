@@ -10,7 +10,8 @@ public class Demo1 {
         words.add("Java");
         words.add("Computer");
         words.add("Lava");
-       /* for (String s:words){
+       /*
+        for (String s:words){
             if (s.endsWith("a")){
                 words.remove(s);
             }
