@@ -1,4 +1,4 @@
-package Project2;
+package project2;
 
 public interface Shape {
     /*Create an Interface 'Shape' with undefined
